@@ -7,7 +7,7 @@
 - [x] Buttons Library
 - [x] Marketing Skeleton
 - [x] Authentication (w/ Clerk)
-- [ ] Footer
+- [x] Footer
 - [ ] Main Layout
 - [ ] Sidebar
 - [ ] Learn Page Wrappers
