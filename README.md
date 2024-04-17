@@ -4,7 +4,7 @@
 [Production URL](https://lingo-teal.vercel.app)
 
 - [x] Make it deploy
-- [ ] Buttons Library
+- [x] Buttons Library
 - [ ] Marketing Skeleton
 - [ ] Authentication (w/ Clerk)
 - [ ] Footer
