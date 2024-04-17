@@ -5,7 +5,7 @@
 
 - [x] Make it deploy
 - [x] Buttons Library
-- [ ] Marketing Skeleton
+- [x] Marketing Skeleton
 - [ ] Authentication (w/ Clerk)
 - [ ] Footer
 - [ ] Main Layout
