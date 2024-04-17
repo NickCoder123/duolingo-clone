@@ -8,7 +8,7 @@
 - [x] Marketing Skeleton
 - [x] Authentication (w/ Clerk)
 - [x] Footer
-- [ ] Main Layout
+- [x] Main Layout
 - [ ] Sidebar
 - [ ] Learn Page Wrappers
 - [ ] Drizzle & Neon
