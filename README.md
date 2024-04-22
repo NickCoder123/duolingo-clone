@@ -9,7 +9,7 @@
 - [x] Authentication (w/ Clerk)
 - [x] Footer
 - [x] Main Layout
-- [ ] Sidebar
+- [x] Sidebar
 - [ ] Learn Page Wrappers
 - [ ] Drizzle & Neon
 - [ ] Courses Page
