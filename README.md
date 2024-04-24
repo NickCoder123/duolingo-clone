@@ -10,7 +10,7 @@
 - [x] Footer
 - [x] Main Layout
 - [x] Sidebar
-- [ ] Learn Page Wrappers
+- [x] Learn Page Wrappers
 - [ ] Drizzle & Neon
 - [ ] Courses Page
 - [ ] User Progress
