@@ -11,7 +11,7 @@
 - [x] Main Layout
 - [x] Sidebar
 - [x] Learn Page Wrappers
-- [ ] Drizzle & Neon
+- [x] Drizzle & Neon
 - [ ] Courses Page
 - [ ] User Progress
 - [ ] Seed Script
