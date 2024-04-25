@@ -15,7 +15,7 @@
 - [x] Courses Page
 - [x] User Progress
 - [x] Seed Script
-- [ ] Schema
+- [x] Schema
 - [ ] Units
 - [ ] Lesson Button
 - [ ] Course Progress
