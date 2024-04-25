@@ -12,7 +12,7 @@
 - [x] Sidebar
 - [x] Learn Page Wrappers
 - [x] Drizzle & Neon
-- [ ] Courses Page
+- [x] Courses Page
 - [ ] User Progress
 - [ ] Seed Script
 - [ ] Schema
