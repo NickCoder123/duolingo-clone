@@ -13,7 +13,7 @@
 - [x] Learn Page Wrappers
 - [x] Drizzle & Neon
 - [x] Courses Page
-- [ ] User Progress
+- [x] User Progress
 - [ ] Seed Script
 - [ ] Schema
 - [ ] Units
