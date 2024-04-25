@@ -3,9 +3,10 @@ import Link from "next/link";
 import { InfinityIcon } from "lucide-react";
 
 import { Button } from "~/components/ui/button";
+import { courses } from "~/server/db/schema";
 
 interface UserProgressProps {
-  activeCourse: { title: string; imageSrc: string };
+  activeCourse: typeof courses.$inferSelect;
   hearts: number;
   points: number;
   hasActiveSubscription: boolean;

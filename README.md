@@ -14,7 +14,7 @@
 - [x] Drizzle & Neon
 - [x] Courses Page
 - [x] User Progress
-- [ ] Seed Script
+- [x] Seed Script
 - [ ] Schema
 - [ ] Units
 - [ ] Lesson Button
